@@ -1,6 +1,6 @@
 # Lung Cancer Detection using Transfer Learning
 
-A custom convolutional neural network (CNN) classifier augmented with InceptionV3 pretrained model layers and built with TensorFlow/Keras to classify lung histopathology images into three categories: adenocarcinoma, squamous cell carcinoma, and normal lung tissue.
+A custom convolutional neural network (CNN) classifier augmented with InceptionV3 pretrained model layers to classify lung histopathology images into three categories: adenocarcinoma, squamous cell carcinoma, and normal lung tissue.
 
 ---
 
